@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GuyEditheDev
+- 👀 I’m interested in Information
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on CosmiQ Project
+- 📫 Contact me to discord: GuyEdit#0990
